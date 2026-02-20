@@ -1,0 +1,24 @@
+{
+  "name": "shadcn-best-practices",
+  "version": "0.1.0",
+  "private": true,
+  "description": "shadcn/ui done right. Component customization, form patterns with React Hook Form + Zod, theming, accessibility, and composition patterns your AI agent should follow.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["shadcn", "shadcn-ui", "radix", "react", "best-practices", "forms", "theming", "cursor-plugin", "claude-code", "ai-agent"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/shadcn-best-practices.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}
