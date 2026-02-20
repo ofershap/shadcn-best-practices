@@ -8,7 +8,18 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["shadcn", "shadcn-ui", "radix", "react", "best-practices", "forms", "theming", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "shadcn",
+    "shadcn-ui",
+    "radix",
+    "react",
+    "best-practices",
+    "forms",
+    "theming",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "author": {
     "name": "Ofer Shapira",
     "url": "https://github.com/ofershap"

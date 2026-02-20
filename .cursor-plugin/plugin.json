@@ -11,6 +11,17 @@
   "homepage": "https://github.com/ofershap/shadcn-best-practices",
   "repository": "https://github.com/ofershap/shadcn-best-practices",
   "license": "MIT",
-  "keywords": ["shadcn", "shadcn-ui", "radix", "react", "best-practices", "forms", "theming", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "shadcn",
+    "shadcn-ui",
+    "radix",
+    "react",
+    "best-practices",
+    "forms",
+    "theming",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "logo": "assets/logo.svg"
 }

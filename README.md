@@ -1,6 +1,7 @@
 # shadcn/ui Best Practices
 
-shadcn/ui done right. Component customization, form patterns with React Hook Form + Zod, theming, accessibility, and composition patterns your AI agent should follow.
+shadcn/ui done right. Component customization, form patterns with React Hook Form + Zod, theming,
+accessibility, and composition patterns your AI agent should follow.
 
 ## Install
 
@@ -28,7 +29,9 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ### Skills
 
-- **shadcn-best-practices** - shadcn/ui done right. Component customization, form patterns with React Hook Form + Zod, theming, accessibility, and composition patterns your AI agent should follow.
+- **shadcn-best-practices** - shadcn/ui done right. Component customization, form patterns with
+  React Hook Form + Zod, theming, accessibility, and composition patterns your AI agent should
+  follow.
 
 ### Rules
 
@@ -40,7 +43,13 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ## Why This Plugin?
 
-AI agents often treat shadcn/ui as a conventional npm dependency and suggest imports from `@shadcn/ui` or wrap components instead of customizing source. They skip the `cn()` utility for class merging, use template literals for conditional styles, and build forms without React Hook Form + Zod. They hardcode colors instead of CSS variables, write manual validation instead of schema-based validation, and ignore the CLI for adding components. This plugin anchors your agent to the copy-paste model, proper form patterns, theming via CSS variables, and the composition patterns shadcn/ui is designed for.
+AI agents often treat shadcn/ui as a conventional npm dependency and suggest imports from
+`@shadcn/ui` or wrap components instead of customizing source. They skip the `cn()` utility for
+class merging, use template literals for conditional styles, and build forms without React Hook
+Form + Zod. They hardcode colors instead of CSS variables, write manual validation instead of
+schema-based validation, and ignore the CLI for adding components. This plugin anchors your agent to
+the copy-paste model, proper form patterns, theming via CSS variables, and the composition patterns
+shadcn/ui is designed for.
 
 ## License
 
