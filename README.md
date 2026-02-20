@@ -1,7 +1,7 @@
 # shadcn/ui Best Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-shadcn--best--practices-blue)](https://skills.sh/ofershap/shadcn-best-practices/shadcn-best-practices)
+[![Skills](https://img.shields.io/badge/skills.sh-shadcn--best--practices-blue)](https://skills.sh/ofershap/shadcn-best-practices)
 
 shadcn/ui done right. Local component ownership, `cn()` class merging, React Hook Form + Zod forms,
 CSS variable theming, `cva` variants, Radix primitives, accessible patterns, and the `npx shadcn`
@@ -16,7 +16,7 @@ CLI workflow.
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/shadcn-best-practices/shadcn-best-practices
+npx skills add ofershap/shadcn-best-practices
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
